@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/projects/CML/libCML/CML.h
+
+E:/projects/CML/src/main.cpp
+iostream
+-
+../libCML/CML.h
+E:/projects/CML/libCML/CML.h
+

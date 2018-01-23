@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.9)
 project(CML)
+message($(PROJECT_SOURCE_DIR))
 
-set(CMAKE_CXX_STANDARD 11)
-
-add_executable(CML main.cpp)
+add_subdirectory(src)
+add_subdirectory(libCML)

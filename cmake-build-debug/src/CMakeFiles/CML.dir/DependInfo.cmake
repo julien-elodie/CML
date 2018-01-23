@@ -4,16 +4,18 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Volumes/DATA/项目/CML/main.cpp" "/Volumes/DATA/项目/CML/cmake-build-debug/CMakeFiles/CML.dir/main.cpp.o"
+  "E:/projects/CML/src/main.cpp" "E:/projects/CML/cmake-build-debug/src/CMakeFiles/CML.dir/main.cpp.obj"
   )
-set(CMAKE_CXX_COMPILER_ID "AppleClang")
+set(CMAKE_CXX_COMPILER_ID "GNU")
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
+  "../libCML"
   )
 
 # Targets to which this target links.
 set(CMAKE_TARGET_LINKED_INFO_FILES
+  "E:/projects/CML/cmake-build-debug/libCML/CMakeFiles/libCML.dir/DependInfo.cmake"
   )
 
 # Fortran module output directory.

@@ -1,5 +1,5 @@
 #include <iostream>
-#include "CML.h"
+#include "../libCML/CML.h"
 
 int main() {
     std::cout << "Program is running" << std::endl;
